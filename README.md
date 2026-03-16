@@ -46,8 +46,10 @@ Windows Firewall (netsh) – Blocking attacker IPs
 1 Clone the Repository
 git clone https://github.com/AayushDarpe/Smart-Firewall.git
 cd Smart-Firewall
+
 2 Install Required Libraries
 pip install scapy requests
+
 3 Run the Application
 python firewall.py
 
