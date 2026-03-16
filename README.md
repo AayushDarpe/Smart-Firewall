@@ -67,11 +67,6 @@ The dashboard logs all packet activity and security alerts.
 
 Users can export the packet logs as a CSV report for further analysis.
 
-# Example Packet Log
-time                 src            country      dst            protocol  port  action
-2026-03-17 14:22:11  10.120.24.1    Unknown      148.113.20.1   TCP       443   ALLOWED
-2026-03-17 14:22:12  148.113.20.1   India        10.120.24.1    TCP       62257 ALLOWED
-2026-03-17 14:22:13  208.95.11.1    United States 10.120.24.1   TCP       80    ALLOWED
 
 # Screenshots
 <img width="1251" height="848" alt="image" src="https://github.com/user-attachments/assets/7b503312-ad5e-4939-83c5-c1ba848cdf9b" />
